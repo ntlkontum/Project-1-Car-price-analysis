@@ -1,7 +1,5 @@
-# Portfolio Project 1: Car price analysis
+# Summarize portfolio project 1: Car price analysis
 The dataset comes from https://www.kaggle.com/datasets/linhttht/car-price-vn/data?select=data.csv
-
-Summarize portfolio project 1
 ## Exploratory Data Analysis (EDA)
 ### 1. Show the top 10 most expensive cars
 ![image](https://github.com/user-attachments/assets/eafea278-fc0f-40b9-b2c7-902ede32da70)
